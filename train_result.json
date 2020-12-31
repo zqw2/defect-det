@@ -1,0 +1,1567 @@
+[
+    {
+        "img_dir": "../img\\0143.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0057.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0335.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0023.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0371.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0434.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0447.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0230.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0373.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0448.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0047.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0250.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0136.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0033.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0503.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0525.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0129.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0485.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0486.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0460.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0490.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0156.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0543.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0008.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0458.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0263.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0236.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0492.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0133.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0363.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0532.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0344.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0334.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0397.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0248.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0071.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0240.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0045.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0417.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0222.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0104.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0137.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0424.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0132.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0131.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0359.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0067.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0073.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0284.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0046.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0164.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0292.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0342.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0445.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0028.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0466.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0301.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0542.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0039.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0437.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0036.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0372.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0412.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0517.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0422.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0128.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0261.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0161.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0526.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0135.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0498.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0271.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0350.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0477.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0158.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0169.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0462.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0224.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0348.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0125.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0415.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0264.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0515.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0444.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0339.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0040.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0154.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0374.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0231.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0476.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0347.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0245.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0507.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0167.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0262.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0399.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0385.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0310.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0404.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0420.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0145.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0451.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0268.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0365.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0382.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0414.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0406.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0072.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0073.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0375.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0069.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0443.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0282.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0410.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0467.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0327.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0247.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0514.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0049.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0544.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0037.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0317.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0280.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0386.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0421.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0249.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0446.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0459.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0432.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0378.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0062.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0491.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0341.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0277.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0545.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0070.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0288.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0381.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0487.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0101.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0278.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0452.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0030.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0121.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0163.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0294.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0326.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0325.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0068.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0009.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0513.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0438.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0500.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0418.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0493.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0336.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0160.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0312.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0361.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0140.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0469.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0349.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0223.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0053.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0419.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0032.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0272.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0042.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0162.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0048.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0529.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0360.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0168.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0260.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0311.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0071.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0244.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0521.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0536.jpg",
+        "logits": 1,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0074.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0431.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0533.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0246.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0522.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0279.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0120.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0066.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0534.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0314.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0297.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0398.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0313.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0130.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0456.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0425.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0479.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0234.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0286.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0318.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0241.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0464.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0051.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0315.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0520.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0390.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0232.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0025.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0127.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0429.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0124.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0329.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0369.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0391.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0126.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0484.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0035.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0387.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0299.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0499.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0134.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0483.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0495.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0423.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0331.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0269.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0535.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0383.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0494.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0413.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0063.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0546.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0152.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0393.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0405.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0539.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0274.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0528.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0512.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0376.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0541.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0506.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0501.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0235.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0370.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0157.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0537.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0338.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0380.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0530.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0054.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0538.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0328.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0352.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0069.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0275.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0147.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0502.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0283.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0416.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0304.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0109.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0058.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0354.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0072.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0044.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0291.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0345.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0285.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0307.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0449.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0170.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0159.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0066.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0300.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0332.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0353.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0144.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0228.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0388.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0239.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0463.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0273.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0322.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0324.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0075.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0389.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0508.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0289.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0150.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0059.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0166.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0067.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0511.jpg",
+        "logits": 0,
+        "label": 0
+    },
+    {
+        "img_dir": "../img\\0488.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0027.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0276.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0265.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0106.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0296.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0426.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0290.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0455.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0107.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0149.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0340.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0453.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0052.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0440.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0050.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0123.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0108.jpg",
+        "logits": 0,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0330.jpg",
+        "logits": 1,
+        "label": 1
+    },
+    {
+        "img_dir": "../img\\0142.jpg",
+        "logits": 1,
+        "label": 1
+    }
+]

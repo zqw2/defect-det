@@ -1,0 +1,58 @@
+{
+    "1": [
+        {
+            "img_dir": "../img\\0227.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0238.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0465.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0229.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0105.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0233.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0242.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0237.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0243.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0255.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0253.jpg",
+            "logits": 0
+        },
+        {
+            "img_dir": "../img\\0102.jpg",
+            "logits": 0
+        }
+    ],
+    "0": [
+        {
+            "img_dir": "../img\\0518.jpg",
+            "logits": 1
+        }
+    ]
+}
